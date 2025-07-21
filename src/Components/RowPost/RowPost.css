@@ -24,5 +24,5 @@
 
 }
 .poster:hover {
-    transform: scale(1.1),transform 180ms;
+    transform: scale(1.1);
 }
